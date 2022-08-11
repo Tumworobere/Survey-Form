@@ -14,4 +14,12 @@ main {
     background: #3a3240;
     color: white;
   }
+
+  input, textarea, select, button {
+    background: #3a3240;
+    color: white;
+  }
+  a {
+    color: white;
+  }
   
