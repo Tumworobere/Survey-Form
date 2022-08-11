@@ -8,3 +8,10 @@ main {
     box-shadow: 10px 10px rgba(0, 0, 0, 0.5);
     color: black;
   }
+
+  body {
+    text-align: center;
+    background: #3a3240;
+    color: white;
+  }
+  
